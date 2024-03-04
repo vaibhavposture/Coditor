@@ -27,7 +27,7 @@ const Container = styled(Box)`flex-grow:1;
                 flex-basis:0;
                 display:flex;
                 flex-direction:column;
-                padding:0px 8px 8px`
+                padding:1px 8px 8px`
 
 
 const Editor = ({heading,icon,color,value,onChange})=>{
