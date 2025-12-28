@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/vaibhavposture/Coditor.git"
+    "deploy": "gh-pages -d build --repo https://github.com/vaibhavposture/Coditor.git"
   },
   "eslintConfig": {
     "extends": [
