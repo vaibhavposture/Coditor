@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://vaibhavposture.github.io/Coditor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhavposture/Coditor.git"
+  },
   "dependencies": {
     "@codemirror/lang-css": "^6.3.1",
     "@codemirror/lang-javascript": "^6.2.4",
